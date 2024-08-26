@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{3A3AD803-9832-4ED4-A8A5-319FF8860D7A}|MyApp1\\MyApp1.csproj|solutionrelative:myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3AD803-9832-4ED4-A8A5-319FF8860D7A}|MyApp1\\MyApp1.csproj|c:\\users\\kagab\\documents\\c#sesion2\\myapp1\\myapp1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A3AD803-9832-4ED4-A8A5-319FF8860D7A}|MyApp1\\MyApp1.csproj|C:\\Users\\Kagab\\Documents\\C#Sesion2\\MyApp1\\myapp1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A3AD803-9832-4ED4-A8A5-319FF8860D7A}|MyApp1\\MyApp1.csproj|solutionrelative:myapp1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A3AD803-9832-4ED4-A8A5-319FF8860D7A}|MyApp1\\MyApp1.csproj|c:\\users\\kagab\\documents\\c#sesion2\\myapp1\\myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A3AD803-9832-4ED4-A8A5-319FF8860D7A}|MyApp1\\MyApp1.csproj|C:\\Users\\Kagab\\Documents\\C#Sesion2\\MyApp1\\myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A3AD803-9832-4ED4-A8A5-319FF8860D7A}|MyApp1\\MyApp1.csproj|solutionrelative:myapp1\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -34,8 +34,7 @@
               "RelativeToolTip": "MyApp1\\clases\\Persona.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T14:46:04.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T14:46:04.255Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "ToolTip": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\MyApp1\\MyApp1\\FrmPrincipal.cs [Design]",
               "RelativeToolTip": "MyApp1\\FrmPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T14:00:22.648Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-08-26T14:00:22.648Z"
             }
           ]
         }
