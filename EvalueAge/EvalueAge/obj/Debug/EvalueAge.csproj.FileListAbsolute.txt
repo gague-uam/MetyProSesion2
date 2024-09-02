@@ -1,0 +1,10 @@
+C:\Users\Kagab\Documents\C#Sesion2\EvalueAge\EvalueAge\bin\Debug\EvalueAge.exe.config
+C:\Users\Kagab\Documents\C#Sesion2\EvalueAge\EvalueAge\bin\Debug\EvalueAge.exe
+C:\Users\Kagab\Documents\C#Sesion2\EvalueAge\EvalueAge\bin\Debug\EvalueAge.pdb
+C:\Users\Kagab\Documents\C#Sesion2\EvalueAge\EvalueAge\obj\Debug\EvalueAge.csproj.AssemblyReference.cache
+C:\Users\Kagab\Documents\C#Sesion2\EvalueAge\EvalueAge\obj\Debug\EvalueAge.Form1.resources
+C:\Users\Kagab\Documents\C#Sesion2\EvalueAge\EvalueAge\obj\Debug\EvalueAge.Properties.Resources.resources
+C:\Users\Kagab\Documents\C#Sesion2\EvalueAge\EvalueAge\obj\Debug\EvalueAge.csproj.GenerateResource.cache
+C:\Users\Kagab\Documents\C#Sesion2\EvalueAge\EvalueAge\obj\Debug\EvalueAge.csproj.CoreCompileInputs.cache
+C:\Users\Kagab\Documents\C#Sesion2\EvalueAge\EvalueAge\obj\Debug\EvalueAge.exe
+C:\Users\Kagab\Documents\C#Sesion2\EvalueAge\EvalueAge\obj\Debug\EvalueAge.pdb

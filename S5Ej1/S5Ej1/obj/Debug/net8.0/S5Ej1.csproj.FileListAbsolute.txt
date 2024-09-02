@@ -1,0 +1,15 @@
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\bin\Debug\net8.0\S5Ej1.exe
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\bin\Debug\net8.0\S5Ej1.deps.json
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\bin\Debug\net8.0\S5Ej1.runtimeconfig.json
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\bin\Debug\net8.0\S5Ej1.dll
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\bin\Debug\net8.0\S5Ej1.pdb
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\obj\Debug\net8.0\S5Ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\obj\Debug\net8.0\S5Ej1.AssemblyInfoInputs.cache
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\obj\Debug\net8.0\S5Ej1.AssemblyInfo.cs
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\obj\Debug\net8.0\S5Ej1.csproj.CoreCompileInputs.cache
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\obj\Debug\net8.0\S5Ej1.sourcelink.json
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\obj\Debug\net8.0\S5Ej1.dll
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\obj\Debug\net8.0\refint\S5Ej1.dll
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\obj\Debug\net8.0\S5Ej1.pdb
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\obj\Debug\net8.0\S5Ej1.genruntimeconfig.cache
+C:\Users\Kagab\Documents\C#Sesion2\S5Ej1\S5Ej1\obj\Debug\net8.0\ref\S5Ej1.dll
