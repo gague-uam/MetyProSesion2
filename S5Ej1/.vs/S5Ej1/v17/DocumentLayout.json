@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\S5Ej1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE692045-5773-430C-9D55-444382F57EE7}|S5Ej1\\S5Ej1.csproj|c:\\users\\kagab\\documents\\c#sesion2\\s5ej1\\s5ej1\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE692045-5773-430C-9D55-444382F57EE7}|S5Ej1\\S5Ej1.csproj|solutionrelative:s5ej1\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE692045-5773-430C-9D55-444382F57EE7}|S5Ej1\\S5Ej1.csproj|c:\\users\\kagab\\documents\\c#sesion2\\s5ej1\\s5ej1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE692045-5773-430C-9D55-444382F57EE7}|S5Ej1\\S5Ej1.csproj|solutionrelative:s5ej1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE692045-5773-430C-9D55-444382F57EE7}|S5Ej1\\S5Ej1.csproj|c:\\users\\kagab\\documents\\c#sesion2\\s5ej1\\s5ej1\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE692045-5773-430C-9D55-444382F57EE7}|S5Ej1\\S5Ej1.csproj|solutionrelative:s5ej1\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Evaluate.cs",
               "DocumentMoniker": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\S5Ej1\\S5Ej1\\models\\Evaluate.cs",
               "RelativeDocumentMoniker": "S5Ej1\\models\\Evaluate.cs",
@@ -35,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\S5Ej1\\S5Ej1\\Program.cs",
               "RelativeDocumentMoniker": "S5Ej1\\Program.cs",
               "ToolTip": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\S5Ej1\\S5Ej1\\Program.cs",
               "RelativeToolTip": "S5Ej1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T13:42:33.447Z",
               "EditorCaption": ""

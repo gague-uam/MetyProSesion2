@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|solutionrelative:evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|c:\\users\\kagab\\documents\\c#sesion2\\evalueage\\evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|solutionrelative:evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|c:\\users\\kagab\\documents\\c#sesion2\\evalueage\\evalueage\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\evalueage\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|solutionrelative:evalueage\\models\\evaluate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|c:\\users\\kagab\\documents\\c#sesion2\\evalueage\\evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|solutionrelative:evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\EvalueAge\\Form1.cs",
               "RelativeDocumentMoniker": "EvalueAge\\Form1.cs",
               "ToolTip": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\EvalueAge\\Form1.cs",
               "RelativeToolTip": "EvalueAge\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAArp4tO9sHwB8AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T14:33:28.087Z",
               "IsPinned": true,
@@ -44,7 +44,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Evaluate.cs",
               "DocumentMoniker": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\EvalueAge\\models\\Evaluate.cs",
               "RelativeDocumentMoniker": "EvalueAge\\models\\Evaluate.cs",
@@ -52,12 +52,11 @@
               "RelativeToolTip": "EvalueAge\\models\\Evaluate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T14:26:44.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T14:26:44.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\EvalueAge\\Form1.cs",
               "RelativeDocumentMoniker": "EvalueAge\\Form1.cs",
