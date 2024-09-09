@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|c:\\users\\kagab\\documents\\c#sesion2\\evalueage\\evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|solutionrelative:evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|c:\\users\\kagab\\documents\\c#sesion2\\evalueage\\evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CE5C138B-0B95-4F1E-8C73-EEB96BF4BFED}|EvalueAge\\EvalueAge.csproj|solutionrelative:evalueage\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -43,16 +39,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Evaluate.cs",
-              "DocumentMoniker": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\EvalueAge\\models\\Evaluate.cs",
-              "RelativeDocumentMoniker": "EvalueAge\\models\\Evaluate.cs",
-              "ToolTip": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\EvalueAge\\models\\Evaluate.cs",
-              "RelativeToolTip": "EvalueAge\\models\\Evaluate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T14:26:44.084Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -65,6 +53,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T14:09:05.061Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Evaluate.cs",
+              "DocumentMoniker": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\EvalueAge\\models\\Evaluate.cs",
+              "RelativeDocumentMoniker": "EvalueAge\\models\\Evaluate.cs",
+              "ToolTip": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\EvalueAge\\EvalueAge\\models\\Evaluate.cs",
+              "RelativeToolTip": "EvalueAge\\models\\Evaluate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T14:26:44.084Z"
             }
           ]
         }
