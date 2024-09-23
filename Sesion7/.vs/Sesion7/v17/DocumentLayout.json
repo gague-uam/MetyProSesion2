@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{5127324D-9D3F-44E2-83A0-95FCE9EB6B19}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5127324D-9D3F-44E2-83A0-95FCE9EB6B19}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\kagab\\documents\\c#sesion2\\sesion7\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5127324D-9D3F-44E2-83A0-95FCE9EB6B19}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5127324D-9D3F-44E2-83A0-95FCE9EB6B19}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\kagab\\documents\\c#sesion2\\sesion7\\ejercicio1\\models\\generalage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5127324D-9D3F-44E2-83A0-95FCE9EB6B19}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\models\\generalage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5127324D-9D3F-44E2-83A0-95FCE9EB6B19}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\kagab\\documents\\c#sesion2\\sesion7\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5127324D-9D3F-44E2-83A0-95FCE9EB6B19}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5127324D-9D3F-44E2-83A0-95FCE9EB6B19}|Ejercicio1\\Ejercicio1.csproj|C:\\Users\\Kagab\\Documents\\C#Sesion2\\Sesion7\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5127324D-9D3F-44E2-83A0-95FCE9EB6B19}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,10 +29,6 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
@@ -36,9 +36,22 @@
               "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
               "ToolTip": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\Sesion7\\Ejercicio1\\Program.cs",
               "RelativeToolTip": "Ejercicio1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T13:55:08.859Z",
+              "WhenOpened": "2024-09-12T23:32:42.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralAge.cs",
+              "DocumentMoniker": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\Sesion7\\Ejercicio1\\models\\GeneralAge.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\models\\GeneralAge.cs",
+              "ToolTip": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\Sesion7\\Ejercicio1\\models\\GeneralAge.cs",
+              "RelativeToolTip": "Ejercicio1\\models\\GeneralAge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T23:27:01.226Z",
               "EditorCaption": ""
             },
             {
@@ -49,14 +62,14 @@
               "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
               "ToolTip": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\Sesion7\\Ejercicio1\\Form1.cs",
               "RelativeToolTip": "Ejercicio1\\Form1.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAuwDoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-09T13:23:36.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Kagab\\Documents\\C#Sesion2\\Sesion7\\Ejercicio1\\Form1.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
